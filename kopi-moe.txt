@@ -1,0 +1,4 @@
+KOPI MOE
+-membedah seluruh web dan menggunakan ide sendiri
+-menambahkan logo baru menggunakan logo yang sudah ada
+menambahkan fitur E-COMMERCE
